@@ -9,7 +9,7 @@ body {
 }
 
 hr {
-  border-color: #F05F40;
+  border-color: #107530;
   border-width: 3px;
   max-width: 50px;
 }
@@ -22,10 +22,10 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: #107530;
 }
 a:hover, a:focus {
-  color: rgb(234.5776699029, 56.4951456311, 18.4223300971);
+  color: rgb(9.8646616541, 72.1353383459, 29.5939849624);
 }
 
 h1,
@@ -44,7 +44,7 @@ p {
 }
 
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #107530;
 }
 
 .bg-dark {
@@ -77,13 +77,13 @@ aside {
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #107530;
   font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
 .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus {
-  color: rgb(234.5776699029, 56.4951456311, 18.4223300971);
+  color: rgb(9.8646616541, 72.1353383459, 29.5939849624);
 }
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
@@ -94,11 +94,11 @@ aside {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #F05F40;
+  color: #107530;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #F05F40 !important;
+  color: #107530 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -129,11 +129,11 @@ aside {
     border-color: rgba(34, 34, 34, 0.5);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #F05F40;
+    color: #107530;
     font-size: 14px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: rgb(234.5776699029, 56.4951456311, 18.4223300971);
+    color: rgb(9.8646616541, 72.1353383459, 29.5939849624);
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -141,7 +141,7 @@ aside {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #F05F40;
+    color: #107530;
   }
 }
 
@@ -231,7 +231,7 @@ header .header-content .header-content-inner p {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(16, 117, 48, 0.9);
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -278,7 +278,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-  color: #F05F40;
+  color: #107530;
 }
 
 .no-gutter > [class*=col-] {
@@ -313,26 +313,26 @@ header .header-content .header-content-inner p {
 
 .btn-primary {
   color: white;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #107530;
+  border-color: #107530;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle .btn-primary {
   color: white;
-  background-color: rgb(238.1432038835, 75.1941747573, 40.3567961165);
-  border-color: rgb(237.4004854369, 67.2718446602, 30.8995145631);
+  background-color: rgb(12.9323308271, 94.5676691729, 38.7969924812);
+  border-color: rgb(11.7052631579, 85.5947368421, 35.1157894737);
 }
 .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle .btn-primary {
   background-image: none;
 }
 .btn-primary.disabled, .btn-primary.disabled:hover, .btn-primary.disabled:focus, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled.active, .btn-primary[disabled], .btn-primary[disabled]:hover, .btn-primary[disabled]:focus, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary, fieldset[disabled] .btn-primary:hover, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:active, fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #107530;
+  border-color: #107530;
 }
 .btn-primary .badge {
-  color: #F05F40;
+  color: #107530;
   background-color: white;
 }
 
